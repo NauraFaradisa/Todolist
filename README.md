@@ -1,12 +1,10 @@
+![screenshoot](screenshoot.png)
+
 # Todolist
----
 
 _HTML, CSS, and, Javascript simple Todolist_
 
 [NauraFaradisa.github.io/Todolist](https://NauraFaradisa.github.io/Todolist)
-
-## Preview
-![preview](screenshoot.png)
 
 ## Browser Support
 
