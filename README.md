@@ -40,4 +40,4 @@ Author : [Naura Faradisa](https://github.com/NauraFaradisa)
 
 ## Tags
 
-[HTML] [CSS] [Javascript]
+`HTML` `CSS` `Javascript`
