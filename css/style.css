@@ -1,0 +1,48 @@
+body{
+	text-align: left;
+	font-family: 'Quicksand', sans-serif;
+	background: ghostwhite;
+	color: dimgray;
+}
+
+#ul2{
+	color: silver;
+}
+
+/*input style*/
+input[type="text"]{
+	color: gray;
+	border: none;
+	border-bottom: 1px solid silver;
+	width: 150px;
+	background: none;
+	font-family: 'Quicksand', sans-serif;
+	outline: none;
+	font-size: 100%;
+}
+
+input[type="text"]::-webkit-input-placeholder{
+	color: silver;
+}
+
+input[type="text"]::-moz-input-placeholder{
+	color: silver;
+}
+
+input[type="text"]::-ms-input-placeholder{
+	color: silver;
+}
+
+/*button style*/
+button{
+	background: dimgray;
+	color:  gainsboro;
+	border: none;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+}
+
+.delete{
+	color: lightcoral;
+}

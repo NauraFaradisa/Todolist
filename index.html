@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title> todolist | NauraFaradisa </title>
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
+</head>
+<body>
+	<h1>What Your Plan Today??</h1>
+	<div class="container">
+		<ul id="todo"></ul>
+		<ul id="ul2">
+			<li>
+				<input type="text" id="newText" placeholder="Create new todo!!" spellcheck="false" autocomplete="off" onkeypress="submitOnEnter(event)">
+				<button onclick="add()" id="button"> + </button>
+			</li>
+		</ul>
+	</div>
+
+	<script src="js/script.js"></script>
+</body>
+</html>
