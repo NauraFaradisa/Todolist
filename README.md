@@ -2,35 +2,27 @@
 
 # Todolist
 
-_HTML, CSS, and, Javascript simple Todolist_
-
 [NauraFaradisa.github.io/Todolist](https://NauraFaradisa.github.io/Todolist)
 
 ## Browser Support
 
-|chrome|ie|firefox|safari|opera|
-|---|---|---|---|---|
-| 4 | 10 | 4 | 3.1 | 11.5 |
+<table>
+	<tr>
+	        <td><img src="https://lh3.googleusercontent.com/d/1lINX0uQhURf_cqbG1kfOjBOVF5lGea8G"></td>
+		<td><img src="https://lh3.googleusercontent.com/d/1lIpSdQ7B9Rag_VfPFSESsX2AtlRuMuu7"></td>
+		<td><img src="https://lh3.googleusercontent.com/d/1lJyxyw_V0pxF0UFR59Vw4VtOezBBmvSd"></td>
+		<td><img src="https://lh3.googleusercontent.com/d/1lKaeJaCs3Bu9o0yVq7ZzglIwY_Jf_9G1"></td>
+		<td><img src="https://lh3.googleusercontent.com/d/1lMBASCaZCEUGnjdWr2xwYwrocrgWgvJP"></td>
+	</tr>
+	<tr>
+		<td align="center"> 4 </td>
+		<td align="center"> 10 </td>
+		<td align="center"> 4 </td>
+		<td align="center"> 3.1 </td>
+		<td align="center"> 11.5 </td>
+	</tr>
 
-## Reference
-
-[https://stackoverflow.com/questions/...](https://stackoverflow.com/questions/2727717/how-to-remove-the-parent-element-using-plain-javascript)
-
-[https://youtu.be/De-pksZy6a0](https://youtu.be/De-pksZy6a0)
-
-[https://codepen.io/chris__sev/pen/IdGKH](https://codepen.io/chris__sev/pen/IdGKH)
-
-[https://caniuse.com/](https://caniuse.com/)
-
-[https://htmlcolorcodes.com/color-names/](https://htmlcolorcodes.com/color-names/)
-
-[https://fonts.google.com/specimen/Quicksand](https://fonts.google.com/specimen/Quicksand)
-
-[https://qastack.id/programming/...](https://qastack.id/programming/155188/trigger-a-button-click-with-javascript-on-the-enter-key-in-a-text-box#)
-
-[https://www.malasngoding.com/...](https://www.malasngoding.com/cara-mengganti-warna-placeholder-dengan-css/)
-
-[https://www.kursuswebsite.org/...](https://www.kursuswebsite.org/cara-membuat-toggle-hideshow-dengan-javascript/)
+</table>
 
 ## About
 
