@@ -27,7 +27,3 @@
 ## About
 
 Author : [Naura Faradisa](https://github.com/NauraFaradisa)
-
-## Tags
-
-`HTML` `CSS` `Javascript`
